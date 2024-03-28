@@ -1,5 +1,5 @@
 def get_greeting():
-  return "Hello, World!"
+  return "Hello, staging!"
 
 message = get_greeting()
 print(message)
